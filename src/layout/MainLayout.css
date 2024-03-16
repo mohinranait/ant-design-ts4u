@@ -1,0 +1,17 @@
+.header {}
+
+.main-container {
+    width: 100%;
+    min-height: 100vh;
+}
+
+img {
+    width: 100% !important;
+    object-fit: cover;
+}
+
+.content-wrap {
+    padding: 15px;
+    width: 95%;
+    margin: 0 auto;
+}
